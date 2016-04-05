@@ -1,4 +1,5 @@
-import os, prettytable, re, string
+# -*- coding: utf-8 -*-
+import os
 from textblob import TextBlob
 from nltk.tokenize import TweetTokenizer
 from nltk.corpus import TwitterCorpusReader
@@ -32,7 +33,8 @@ def main():
             pol = u"positive"
         if value.polarity < 0:
             pol = u"negative"
-        print key + u": \n has polarity: " + pol + ", with subj_score = " + unicode(value.subjectivity)
+        print key.encode('utf-8')
+        print u"has polarity: " + pol + u"\t with subjectivity score: " + unicode(value.subjectivity) + u"\n"
 
 
 if __name__ == '__main__':

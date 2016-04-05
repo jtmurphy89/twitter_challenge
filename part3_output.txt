@@ -1,0 +1,712 @@
+there are 5691 items in vocab_frame
+2    605
+1     80
+0     57
+Name: cluster, dtype: int64
+Top terms per cluster:
+
+Cluster 0 words: main, alden, wait, alway, flame, becom, fatti, fan, fall, eye, extraordinari, yuhh, featur, explor, explan, experienc, experi, exhaust, fear, fieri,
+
+Cluster 0 tweets:
+still wait becom main charact nichola spark novel
+
+there alway fire alden main flame wait spark
+
+
+
+Cluster 1 words: princess, problem, fear, born, dragon, star, explan, explor, extraordinari, fieri, experienc, fall, fan, fatti, experi, featur, exhaust, feel, eye, yuhh,
+
+Cluster 1 tweets:
+she princess born star problem dragon even fear spark
+
+
+
+Cluster 2 words: kentucki, bulldog, brisco, isaiah, today, experi, flame, win, fieri, conclus, becom, bench, record, double-doubl, wright, poythress, taylor, st, keith, love,
+
+Cluster 2 tweets:
+hadoop vs spark big data framework better
+
+greivi vasquez gave terp spark court georgetown hoya
+
+love obama suck meme done year light spark y'all ran
+
+spark blunt spark convers
+
+chevrolet spark stock day check best offer http://(open)https://t.co/upr4immuyn
+
+attack spark surveil debat tech firm still lag gender divers hous okay
+
+aston martin vantag volant zagato chassi rd spark
+
+spark miss spark love miss bet you'r still donat give
+
+search neo spark electron googl get detail googl adword
+
+reach one person idea spark chang everyth
+
+box victori spark booster pack nyaruko crawl love
+
+spark blunt doesn't mean hit hundr time
+
+easi use alway run quick put power manag spark servic work
+
+late night spark end night
+
+search neo spark electron googl get detail your look
+
+bbc educ free school bus cut spark anger
+
+great see take tini spark fulli own hometown
+
+alchemi true love right relationship sacr sex rite ishtar spark fire
+
+ion even know mfs cool finnauh spark sum
+
+let spark
+
+chevrolet spark stock day check best offer http://(open)https://t.co/oomjqh7paf
+
+anyon notic one time climat chang came debat jeesh it import issu
+
+shut gamekuu dont want meso
+
+it spark it enough keep go it dark one around keep go
+
+microsoft use minecraft spark interest
+
+stori spark--act move other record stori experienc race social justic
+
+talk most spark mayb stream stuff like flink wasn't sure fit group
+
+know there still chanc caus there spark gotta ignit light let shine
+
+spark rogu trust burst flame luci mansion
+
+yea spark
+
+spark pet friend
+
+keith taylor poythress give kentucki spark bench record double-doubl win wright st
+
+zo know th there still chanc caus there spark
+
+play jorg hm spark watch child
+
+ok want bring dutch i'll spark fatti
+
+spark silver fox product feat beatmanialldx happi sky
+
+god work
+
+know list rdd avail spark shell stackoverflow
+
+play surf gvng spark prayer
+
+black friday deal bootcamp dec use code twitter regist
+
+success factori collabor actioncoach spark activ year team build
+
+creativ night paint collabor w calgari public staff telus spark
+
+roll ain't spark
+
+tag someon u wanna love good
+
+urgent need spark tomorrow day anybodi know anyon pleas tag
+
+tpp much lower tariff reduc non tariff barrier boost trade servic
+
+good said worri spark gone need time heal give one shot come feb
+
+would save spark we'll start fire shine light dark
+
+kawasaki kx ignit coil w spark plug cap
+
+neo spark electron pray mau everythng get better good day come
+
+serious bench doesn't spark year hope build chemistri eventu
+
+softwar engineer-java spark scala ma-cambridg cybercod match great peopl gr
+
+voyageofthedamn begin concept
+
+it spark
+
+feel spark everytim meet
+
+spark plug get salti bc never play bad game want gs lose
+
+suppos read spark note book instead fell asleep
+
+come crib spark get lift
+
+thing hate via memori issu spark stream random crazi error
+
+ray lai director share real-tim analyt infrastructur case studi use mongodb hadoop spark aw
+
+show brilliant premier kind spark find
+
+girl wanna spark drama bc bore road trip go sleep someth
+
+spark becom flame experi fieri conclus today
+
+bleed heart brother etern miseri major bank job spark fire
+
+yamaha banshe pro circuit exhaust pipe silenc spark arrestor k
+
+show can't see spark eye gone
+
+h
+
+like video sleep siren save spark full album stream
+
+there time feel lone get old awhil it hard find someon match spark
+
+final seri play cinema across
+
+spark love toy drive stuff-a-bus isn't w dust big elf suit
+
+true
+
+mbb hill simist spark late ralli dsu fall sonoma state dsu play san francisco state saturday
+
+side effect global environ famili spark end human speci ccwh global
+
+spark friend time sake smoke alon lol match don't got money ok
+
+talkin bout spark n got drink
+
+god game got want spark bleezi need calm dine
+
+kuryakyn scorpion spark plug head bolt cover chrome harley fltc
+
+litol spark
+
+sparknet train deep network
+
+pleas help spark mind chang world tupac help inspir kid code
+
+super-excit test keep eye peel cool
+
+day dis flame sit far want wave n spark convo heard kid call mother
+
+who tryna spark
+
+spark sleep
+
+spark need lit life
+
+come thru spark l
+
+hate nigga mouth that pistol spark
+
+new light sign sign graphx get instal
+
+graphx ajan
+
+it spark togeth
+
+hype spark r arc splitboard bind transworld snowboard
+
+sinc bflo school play within citi decad spark win streak m-e history-mak may biggest ever
+
+spark jay get high shyt talk phone tonight
+
+antoniogulli
+
+nah nigga dont spark dab
+
+newmurricana spark enough keep go
+
+given one littl spark mad lose
+
+bring spark colour life life thought full tear sad
+
+realiz dark night sometim realli need spark light
+
+war terror invad iraq destabil region spark civil war make terrorist million refuge can't help mi
+
+effici way creat hash map use rdd input spark sourc file
+
+know i'v seen enough quitter know you'r one got spark
+
+wellllll someon kiss someon cheek lip without sort spark otherwis would'v brush
+
+darius jones-clark td pass spark lead defens make hold
+
+kyli jenner tyga broke spark fire
+
+oxygen pleas keep get better better magic spark real
+
+semi bout spark n go sleep
+
+yamaha banshe ignit coil spark aftermarket high output b
+
+make improv spark plug expect regard draw room plus amaz machin reestablish altern ope uyp
+
+data design speed learn ibm apach spark creat new blueprint innov
+
+yuhh spark
+
+strike sensibl object piec
+
+front end develop locat pittsburgh pa us compani cold spark media
+
+keith taylor poythress give cat spark bench record double-doubl win wright st via
+
+cabrinha trainer kite spark cabrinha spark design give kite fli skill need b
+
+great love start small spark
+
+case miss lazer remix came today
+
+spark eye enough lit world happi
+
+yamaha banshe ignit coil spark aftermarket high output r
+
+davant adam look spark struggl packer
+
+top trend book ever
+
+great guid spark ml featur week
+
+fina spark blunt top boy background
+
+j white yard pass tds spark u-high rout advoc
+
+first big snowfal winter i'm chang oil spark plug car drink beer
+
+electrocut spark person
+
+jamesmatthey gunshot spark dramat scene us footbal game
+
+concern spark go hope wrong
+
+spark run dub
+
+romant spark friendship new start friendship understand
+
+explor wikipedia spark tackl unifi use case strata hadoop
+
+let get south park semifin final go spark nation
+
+dream spark life reunit spirit mind bodi
+
+stranger tryna spark convo headphon
+
+feel like you'r spark come dark
+
+everi revolut begin spark westfield santa anita
+
+star prime miss jean brodi muriel spark
+
+get start spark day
+
+champion spark plug rj12c newport roya torpedo dodg plymouth pontiac
+
+cisco rowan trollop make spark fli
+
+think spark one els make millionair i'm special
+
+spark lite right person
+
+hotsandybeach sequoyadaveen forex indicat
+
+man way big play time year can't hurt tri use spark
+
+mom call spark fire liter cute
+
+spark
+
+bryce brown add late point spark auburn romp georgia southern
+
+life enjoy worst time even even u cant see light spark guidanc anywhere.sometim wrong path le
+
+wanna spark w someon worth spark w
+
+spark blunt spark blunt
+
+huge shoutout drive anderson tonight cousin could replac car spark plug
+
+littlest thing spark biggest imagin
+
+assembl line murder
+
+readi leav n spark dis blunt lls
+
+mayb trade hamon set spark team happen earlier call lost season rate
+
+two word tonight describ crazi cactus would ugli peopl
+
+one jewel rob bright spark smash door get work
+
+alert cloth dryer fire spark flash
+
+i'v read tak sure la soheh ke tak soheh kan could creat littl spark curios i'd grate
+
+non-spark combin wrench safeti berylco non spark usa
+
+fair summari recent histori
+
+happi happi birthday spark love babi girl b1 b4
+
+deserv settl spark flame extraordinari soul possibl limitless
+
+watch high school star music ep1 well doesn't spark much interest watch next ep mayb i'll watch next time
+
+there spark buc randi baker field punt return way heritag yard
+
+spark plug cross refer
+
+isaiah bulldog brisco give kentucki spark
+
+someon find way spark thing
+
+spark standalon cdh display error mayb executor log occur worker log
+
+lmu tie huff gave bow spark bench pick foul pass need get much better morri
+
+fan crazi charisma divin spark guruji drive everyon crazi
+
+love
+
+fun way spark romanc holiday season ad
+
+look photo taken jack camera think look spark comment
+
+speak spark arous
+
+know list rdd avail spark shell spark-shel pyspark shell creat mani r
+
+one word spark memori that song born love process it nostalg one
+
+dream transform growth vs self-destruct embodi spark life
+
+spark dragon breeder bred spark dragon dragonval visit park check
+
+hotsandybeach hotsandybeach binarytrad
+
+hotsandybeach binarytrad forex
+
+suppos spark right home girl forget jay love
+
+way spark convers w
+
+ray ford anoth nice play spark bench
+
+champion small engin spark plug spark plug cj6 card pack
+
+bootlegg tracey spark ronan bootlegg new offer follow tracey spark ronan
+
+believ everytim larri look there strong spark one direct
+
+thor writer realli good cool spark thor lee
+
+noth like talk old spark late night remind much i'v screw
+
+spark planner sound super intrigu
+
+shout spark social entrepreneurship club place team kaiac busi competit
+
+buti may ganito oh see spark eye bailona
+
+tri see see indic life plane like less spark eye
+
+i'm gas she spark turn flame i'm tree she water keep aliv need
+
+haha yes sometim don't even feel spark convers peopl end they'll ultim lost confus
+
+im point im phase interest excit im bitter either next dude gotta sum phenomen
+
+experi spark bro
+
+ibm spark meetup session datafram deepdiv
+
+spark planner proven goal-set plan product system superstar
+
+e girl candi smile spark talk
+
+love like spark felt cannot deni live pc piyu
+
+im point im phase interest excit im bitter either next dude gotta sum phenomen spark excit
+
+happi w relationship can't wait babygirl get caus spark
+
+blast write
+
+boutta spark
+
+dont smoke im tri move life im set im gone spark
+
+educ peopl better march educ seed carri generat nice job htt
+
+want spark children creativ stori cube perfect aff
+
+wonder amai hope spark isn't
+
+novemb spark action
+
+spark iphon add exchang support ipad mac version work
+
+it spark it enough keep go
+
+would save spark
+
+lemm spark zoot watch shit netflix
+
+uknw lasta guy reali lv ur meso bt song write iwonna b free tym plx
+
+spark planner achiev goal popular
+
+one chang spark chain happi supersoul session oprah winfrey network
+
+compar perform evalu dongwon kim via
+
+one tell stori quit like line take spark last memori
+
+fuck nigga heart tho fuck nigga spark wit
+
+win new iphon spark financ via
+
+done finish ounc beer wait spark smh lol
+
+can't spark bc lighter fuck
+
+strive find spark everi person speak kindl fire babi
+
+part② ht
+
+came back tabl kept away phone smile male spark delight visibl eye
+
+joni mitchel court spark lp asylum us nm record
+
+don't care spark anger somebodi tweet i'm glad caus show brainwash think think
+
+spark wasn't alway
+
+stori blue spark must read
+
+canva spark
+
+antoniogulli top trend book ever
+
+desoto offens catch spark lmao
+
+gunshot spark dramat scene us footbal game
+
+proud boy tonight rough night hope that spark need start season
+
+hotsandybeach hotsandybeach sequoyadaveen forex
+
+onlin cours includ cours use discount
+
+faith strong say one els opinion spark rage insid man disagre move
+
+would good see merl back show poor daryl
+
+crazi anim print check wild flock mat spark life doorway
+
+spark easi explan absolut anyon
+
+final realiz import spark diamond lost
+
+share good read
+
+littl spark put coloss burst sunshin someon day
+
+japan endless struggl spark inflat great analysi
+
+happi birthday gleechi spark boof
+
+ok green deliv spark allen need right keep momentum boy let
+
+spark design architectur annual award global competit winner announc
+
+diamond stone come bench spark maryland basketbal past rider via nice left
+
+isn't spark love without favorit elf garth kemp love tena
+
+new releas home garden spark joy illustr guid j
+
+let spark blunttttt
+
+first spark apartheid
+
+i'm say i'm gonna chang world guarante spark brain chang world tu
+
+intro apach spark brain-friend tutori
+
+coach ron pls tell cam newton thank put spark back grandson messiah tonight thomson ga mari messiah bailey
+
+i'm feel bad n can't spark take fat emot ass right sleep
+
+life creatur quick-fad spark fathomless dark
+
+analyticbridg implement distribut network
+
+disneyismyescap bell book request speed-spark-tim
+
+here conspiraci theori high profil push sport gambl site spark discuss open forc resolut
+
+spark sun
+
+yamaha banshe fmf fatti gold chrome exhaust pipe spark arrestor c
+
+i'm sorri might later alway offlin tip next time chat i'll spark
+
+oh yea spark gone alway get
+
+min scott spark rc till salu
+
+laker need deliveri don't lose much need spark
+
+rose bloom garden like spark imagin alter
+
+wickeddd amazingg watch ember spark logo time laps
+
+convers get low need spark shit back score
+
+cowork went outsid spark blunt clock wtf
+
+nice friend come way spark
+
+can't believ end nonetheless seri it spark origin it great guy
+
+spark cowork space name shervonn cherri communiti manag technical.li brooklyn
+
+part①
+
+alvin laviska kd spark vj ect ball that like even though lost play heart
+
+it damn shame i'm tri spark convers everyon contact
+
+don't settl spark wait wildfir
+
+you'r turn fire waitin spark
+
+relat quiet game curri big bench warrior right need spark stretch
+
+someth excit share launch scaler
+
+roll spark inhal indo listen roll ft kaden casper
+
+point spark plug socket bmws newer cta drive
+
+real spark woven rope windmil wheel pendant brown leather bead wrap bracelet tripl
+
+i'm actual chill would nice spark blunt right stress i'm deal
+
+re-ignit spark alreadi lost passion use love
+
+yeah noah suck taj need come bench bring spark
+
+somebodi spark
+
+afrojack spree wilson spark
+
+micromax canva spark q334 full spec featur
+
+even darkest dimmest spark hope matter fals desper better absolut noth
+
+webinar sustain fuel spark
+
+friend glow spark bright u
+
+interest idea bring person comput develop countri spark develop
+
+spark bitch actin like brat
+
+implement distribut network
+
+report live cerrito spark kick
+
+someon scoop i'll spark
+
+superrid goe big bike unit track day spark fire w samuel rezafroqxi other
+
+iwould pack bowl spark
+
+let da lighter spark
+
+spark digit right
+
+spin lose headddd throw stray spark instead
+
+meet someon time ask like rather get excit
+
+i'm spark boom
+
+oo true like definit pair
+
+think look amaz togeth standard bollywood pair
+
+new fast eddi auto bodi sign instal sign graphx
+
+spark dstream write kafka send actual uuid kafkaconsum meso cluster want read file
+
+free webinar develop
+
+ylona chrame angl
+
+spark-ent aug rdx seek legal redress malici statement array
+
+you'r lose spark
+
+celin dion sang deep within heart lie magic spark light power imagin
+
+pain world today i'm tri small spark joy
+
+one game left mayb let elia play get spark
+
+tbh im tryin go l ride ill spark
+
+spark steal lighter wtf bruh
+
+never lit mayb babi spark
+
+find manag spark servic help build intellig busi
+
+got work morn might spark
+
+hotsandybeach hotsandybeach hotsandybeach binarytrad
+
+back spark planner achiev goal
+
+let hope win spark momentum let geaux
+
+news
+
+zing food court spark kamlanagar
+
+abouta spark blunt
+
+green provid spark allen need long td run allen back top
+
+hinrich got spark
+
+well help spark didn't mean
+
+ibm commit advanc apach spark
+
+show spark kind could chang someon life
+
+that spark need
+
+yall i'm bore let spark convers shit
+
+nobodi wanna take somewher real quick spark ain't got juic
+
+v high sever fire danger don't let careless behaviour spark
+
+mbb hill simist spark late ralli dsu fall sonoma state dsu play san francisco state satu
+
+put power manag spark servic work start free trial today
+
+tri spark tho
+
+blazer show spark
+
+
+
+
+

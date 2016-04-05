@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 from __future__ import print_function
-import re, gensim
+import re
 import string
 import os
 import pandas as pd
@@ -9,7 +9,6 @@ from nltk.corpus import TwitterCorpusReader
 from nltk.corpus import stopwords
 from sklearn.feature_extraction.text import TfidfVectorizer
 from nltk.stem.snowball import SnowballStemmer
-from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.cluster import KMeans
 
 cachedStopWords = set(stopwords.words("english"))
@@ -46,8 +45,8 @@ def main():
     totalvocab_stemmed = []
     totalvocab_tokenized = []
     for i in tweets:
-        allwords_stemmed = clean_up_tweets(i) #for each item in 'synopses', tokenize/stem
-        totalvocab_stemmed.extend(allwords_stemmed) #extend the 'totalvocab_stemmed' list
+        allwords_stemmed = clean_up_tweets(i)
+        totalvocab_stemmed.extend(allwords_stemmed)
         allwords_tokenized = clean_up_tweets(i)
         totalvocab_tokenized.extend(allwords_tokenized)
     vocab_frame = pd.DataFrame({'words': totalvocab_tokenized}, index=totalvocab_stemmed)
@@ -57,8 +56,6 @@ def main():
                                        use_idf=True, tokenizer=clean_up_tweets, ngram_range=(1, 1))
     tfidf_matrix = tfidf_vectorizer.fit_transform(tweets)
     terms = tfidf_vectorizer.get_feature_names()
-    feats = sorted(set([stemmer.stem(s) for s in terms]))
-    dist = 1 - cosine_similarity(tfidf_matrix)
     num_clusters = 3
     km = KMeans(n_clusters=num_clusters)
     km.fit(tfidf_matrix)
@@ -73,30 +70,19 @@ def main():
         print("Cluster %d words:" % i, end='')
         for ind in order_centroids[i, :20]:
             print(' %s' % vocab_frame.ix[terms[ind].split(' ')].values.tolist()[0][0].encode('utf-8', 'ignore'), end=',')
-        print() #add whitespace
-        print() #add whitespace
+        print()
+        print()
         print("Cluster %d tweets:" % i, end='')
         print()
         tw = list(set([u" ".join(c for c in clean_up_tweets(tt)) for tt in frame.ix[i]['tweets']]))
-        for tweet in tw[0:20]:
-            print(tweet)
+        for tweet in tw:
+            print(tweet.encode('utf-8'))
             print()
         print()
         print()
 
     print()
     print()
-
-
-# tweet_ids = [d["id_str"] for d in twitter_docs if d["lang"]=="en"]
-# lookup_dict = {}
-# for (k,value) in zip(tweets,tweet_ids)
-# 	key = u" ".join(token for token in k)
-# 	lookup_dict[key] = lookup_dict.get(key,[]) + [value]
-# dictionary = gensim.corpora.Dictionary(texts[0:100]).compactify()
-# corpus_memory_friendly = MyCorpus()
-# gensim.corpora.MmCorpus.serialize('corpus.mm',corpus_memory_friendly)
-# mm = gensim.corpora.Mmcorpus('corpus.mm')
 
 
 if __name__ == '__main__':
